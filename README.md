@@ -38,4 +38,5 @@ Visualisasi ini dapat digunakan oleh pihak bisnis atau penjual untuk mengevaluas
 Pembuat
 Davin Alifian Nurindra
 📧 Email: [davinalifian178@gmail.com]
+
 💼 Portfolio: [https://github.com/davinalfn/tokopedia-review-analysis]
